@@ -19,7 +19,8 @@ API-сервіс для автоматизації роботи театру. П
 
 1. Клонуйте репозиторій:
    ```bash
-   git clone [https://github.com/Viktor395/theatre-api-service.git](https://github.com/Viktor395/theatre-api-service.git)
+   git clone https://github.com/Viktor395/theatre-api-service.git
+
    cd theatre-api-service
 
 2. Запустіть за допомогою Docker:
